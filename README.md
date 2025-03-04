@@ -11,3 +11,4 @@
 📫   How to reach me:
 
 <a href="https://discord.com/users/1235350793222361281"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=black" /></a> &nbsp;
+![Cexha GitHub stats](https://github-readme-stats.vercel.app/api?username=Cexha&theme=midnight-purple&show_icons=true)
