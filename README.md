@@ -51,9 +51,7 @@
 
 ## 🧪 Şu Anda Üzerinde Çalıştıklarım
 
-- [ ] **AI + İnsan Yazı Ayırt Edici Araç**
-- [ ] **Gerçek zamanlı bildirim panelli socket.io dashboard**
-- [ ] **Deprem uyarı sistemi + yapay zeka tahmini**
+- [ ] ** AIcord Panel + Yapay Zekâ destekli gelişmiş Discord moderasyon botu ve web paneli.**
 
 ---
 
