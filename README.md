@@ -31,16 +31,6 @@
 
 ---
 
-## 🌟 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknolojiler | Bağlantı |
-|-------|----------|--------------|----------|
-| **AI Admin Panel** | Yapay zeka destekli socket.io + panel yapısı | Node.js, Socket.io, Tailwind | [GitHub](https://github.com/Cexha/AI-Adminpanel) |
-| **V15-Priv-Bot** | Discord AI botu, gelişmiş komut yapısı | Discord.js, OpenAI, Express | [GitHub](https://github.com/Cexha/V15-priv-bot) |
-| **Deprem Alert** | Tüm depremleri anlık izleyen sistem | HTML5, JS, Live API | (Yayınlandığında eklenecek) |
-
----
-
 ## 📊 GitHub Analitiklerim
 
 <div align="center">
